@@ -1,0 +1,24 @@
+payload:
+  - DOMAIN-SUFFIX,android.clients.google.com
+  - DOMAIN-SUFFIX,beacons.gvt2.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,googleplay.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,lh3.googleusercontent.com
+  - DOMAIN-SUFFIX,play-fe.googleapis.com
+  - DOMAIN-SUFFIX,play-games.googleusercontent.com
+  - DOMAIN-SUFFIX,play-lh.googleusercontent.com
+  - DOMAIN-SUFFIX,play.google.com
+  - DOMAIN-SUFFIX,play.googleapis.com
+  - DOMAIN-SUFFIX,prod-lt-playstoregatewayadapter-pa.googleapis.com
+  - IP-CIDR,108.177.0.0/17
+  - IP-CIDR,142.250.0.0/15
+  - IP-CIDR,172.217.0.0/16
+  - IP-CIDR,172.253.0.0/16
+  - IP-CIDR,173.194.0.0/16
+  - IP-CIDR,192.178.0.0/15
+  - IP-CIDR,209.85.128.0/17
+  - IP-CIDR,216.239.32.0/19
+  - IP-CIDR,216.58.192.0/19
+  - IP-CIDR,64.233.160.0/19
+  - IP-CIDR,74.125.0.0/16
